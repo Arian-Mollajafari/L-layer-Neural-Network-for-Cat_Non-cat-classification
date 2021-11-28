@@ -2,7 +2,7 @@
 
 INPUT -> [LINEAR -> RELU]*(L-1) -> LINEAR -> SIGMOID -> OUTPUT
 
-Input: 64643 = 12288
+Input: 64*64*3 = 12288
 
 Hidden layer = (20, 7, 5)
 
